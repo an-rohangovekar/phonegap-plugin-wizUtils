@@ -12,9 +12,9 @@
     
     <keywords>copy, paste, wizcorp, wizard, utilities</keywords>
 	
-	<engines>
+	<!-- <engines>
 	    <engine name="cordova" version=">=3.0.0" />
-	</engines>
+	</engines> -->
 
     <license>MIT</license>
 
